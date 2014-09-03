@@ -3,6 +3,8 @@ HW24-Barnculator
 
 Create a Barn and a Calculator
 
+#### Currently console-based only
+
 Project: Create to be used in the console:
 * a calculator which can add, subtrac, multiply, and divide.
 * a barn which can house animals, and a rollcall function which will have them sound off.
