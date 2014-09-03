@@ -12,9 +12,9 @@ For the barn, each thing in the app has its own Prototype functions: the barn ca
 
 *Barn functions:
 1. `var name = new Animal("name", "animalnoise"); //animals available are Horse, Cat, and Dog (animal name must be capitalized); other inputs are user-deriven.`
---* example: `var Ghost = new Dog("Ghost", "howling");`
-2. `var name = new barn();
---* example: `var b = new Barn();`
+  * example: `var Ghost = new Dog("Ghost", "howling");`
+2. `var name = new barn();`  
+  * example: `var b = new Barn();`
 
 For the calculator, the mathematical operations are Prototype functions which utilize the inputs in corresponding ways.
 
