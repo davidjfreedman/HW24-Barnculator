@@ -59,4 +59,6 @@ I decided to go further with the calculator concept, adding square and square ro
 
 **Why?:** Aside from the stated intent of getting to know prototypes, it was fun to create something as useful and functional as a calculator, and see the work that goes into creating such an application.
 
+**Tech Used:** Javascript, HTML
+
 **Future Updates:** The calculator will be given a skeumorphic DOM counterpart to make user interaction easier.
