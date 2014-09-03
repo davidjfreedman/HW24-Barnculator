@@ -12,7 +12,7 @@ Create a Barn and a Calculator
 Description: The goal of this project was to become more familiar with Prototypes. 
 For the barn, each thing in the app has its own Prototype functions: the barn can call roll on the animals, the animals can sound off, etc.
 
-** *Barn functions**:  
+**Barn functions**:  
   1. `var animalname = new Animal("name", "animalnoise"); // adds a new animal`
     * `//animals available are Horse, Cat, and Dog (animal name must be capitalized); other inputs are user-deriven.`
     * example: `var Ghost = new Dog("Ghost", "howling");`
@@ -27,7 +27,7 @@ For the barn, each thing in the app has its own Prototype functions: the barn ca
 
 For the calculator, the mathematical operations are Prototype functions which utilize the inputs in corresponding ways.
 
-** *Calculator functions:**
+**Calculator functions:**
   1. `var name = new Calculator(); // creates a new calculator`
     * example: `c = new Calculator();`
   2. add: `name.add(number(s))`, subtract: `name.sub(number(s))`, multiply: `name.mult(number(s))`, divide: `name.div(number(s))`
