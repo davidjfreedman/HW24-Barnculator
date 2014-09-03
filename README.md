@@ -10,11 +10,11 @@ Project: Create to be used in the console:
 Description: The goal of this project was to become more familiar with Prototypes. 
 For the barn, each thing in the app has its own Prototype functions: the barn can call roll on the animals, the animals can sound off, etc.
 
-  *Barn functions:  
-    1. `var name = new Animal("name", "animalnoise"); //animals available are Horse, Cat, and Dog (animal name must be capitalized); other inputs are user-deriven.`
-      * example: `var Ghost = new Dog("Ghost", "howling");`
-    2. `var name = new barn();`  
-      * example: `var b = new Barn();`
+*Barn functions:  
+  1. `var name = new Animal("name", "animalnoise"); //animals available are Horse, Cat, and Dog (animal name must be capitalized); other inputs are user-deriven.`
+    * example: `var Ghost = new Dog("Ghost", "howling");`
+  2. `var name = new barn();`  
+    * example: `var b = new Barn();`
 
 For the calculator, the mathematical operations are Prototype functions which utilize the inputs in corresponding ways.
 
